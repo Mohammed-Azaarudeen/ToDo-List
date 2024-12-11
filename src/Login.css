@@ -1,0 +1,10 @@
+#sign{
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: gray;
+    color: white;
+}
+
+#reset{
+    margin-left: 7em;
+}
